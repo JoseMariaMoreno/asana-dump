@@ -1,2 +1,2 @@
 # asana-dump
-Node module for Asana backup
+Node module to backup Asana workspaces, projects, tasks, attachments and stories to a your disk.
